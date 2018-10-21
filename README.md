@@ -1,9 +1,3 @@
-# TriviaGame
-
-![Basic](Images/1-basic.jpg)
-
-**[Click Here to Watch the Demo](https://youtu.be/fBIj8YsA9dk)**.
-
 * You'll create a trivia form with multiple choice or true/false options (your choice).
 
 * The player will have a limited amount of time to finish the quiz. 
