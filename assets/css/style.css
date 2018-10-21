@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/bg3.jpg");
+    background-size: cover;
+    height: 25%;
+    margin: 10px;
+    font: 400 18px/1.8 "Lato", sans-serif;
+    color: black;
+}
+
+.card {
+    margin: 40px;
+    padding: 40px;
+    border: 40px;
+    background-origin: padding-box;
+    text-align: center;
+}
+.radio {
+    text-align: center;
+}
+.containter {
+    font-size: 18px;
+    line-height: 24px;
+}
