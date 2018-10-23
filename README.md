@@ -1,8 +1,13 @@
-# TriviaGame
+10/22 @ 9:30p - I have tried several times to push another attempt at the trivia game but received the same error over and over and over...
 
-![Basic](Images/1-basic.jpg)
+"hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details."
 
-**[Click Here to Watch the Demo](https://youtu.be/fBIj8YsA9dk)**.
+--------------------------------------------------------------------------------
+
 
 * You'll create a trivia form with multiple choice or true/false options (your choice).
 
