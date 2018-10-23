@@ -12,22 +12,25 @@
     <title>Trivia Game</title>
 </head>
 
-<!-- <button onclick="myFunction()">Start</button> -->
+
 
 <body>
-    <div class="container">
+    <div class="startDiv">
+    </div>
+    <!-- <button onclick="myFunction()">Start</button> -->
+    <div class="demoQuestions">
+
+    </div>
+
+    <div class="container questions">
+
         <div class="card" style="background-color:coral;">
-            <h1>Trivia Game</h1>
+            <!-- <div><button>Start</button></div> -->
+            <h1>Trivia Game</h1>  
 
-            <div class="timer"></div>
-            <div class="question"></div>
-            <div class="answers"></div>            
-            <div class="questionArray"></div>
-            <div class="correct"></div>
-            <div class="incorrect"></div>
-        </div>
+        <div><button onclick="countdownTimer.start()">Start</button></div>
 
-            <div class="q1"></div>
+            <div class="q1">
             <p>"Which of these bones is hardest to break?"</p>
             <form action="">
                 <input type="radio" name="answer" value="Cranium"> Cranium
@@ -35,6 +38,8 @@
                 <input type="radio" name="answer" value="Humerus"> Humerus
                 <input type="radio" name="answer" value="Tibia"> Tibia
             </form>
+            </div>
+           
             <br>
             <div class="q2"></div>
             <p>"Which type of rock is created by intense heat AND pressure?"</p>
@@ -120,7 +125,7 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="container Score">
         <div class="correct"></div>
         <div class="incorrect"></div>
         <div class="unanswered"></div>

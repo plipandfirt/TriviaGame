@@ -17,7 +17,8 @@ body {
 .radio {
     text-align: center;
 }
-.containter {
+.containter questions {
     font-size: 18px;
     line-height: 24px;
+    text-align: center;
 }
